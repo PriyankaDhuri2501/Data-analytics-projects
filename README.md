@@ -1,6 +1,6 @@
 # 📊 HR Analytics Dashboard
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ## 📌 Project Description
 
